@@ -14,8 +14,8 @@ A four card feature section built with HTML & CSS
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/nakirabloody37/four-card-feature-section)
+- Live Site URL: [Live site](https://nakirabloody37.github.io/four-card-feature-section/)
 
 ### Built with
 
