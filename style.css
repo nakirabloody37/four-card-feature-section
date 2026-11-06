@@ -175,11 +175,12 @@ img {
   }
 
   .feature-card:nth-child(1),
-  .feature-card:nth-child(3) {
+  .feature-card:nth-child(4) {
     transform: translateY(50%);
   }
 
-  .feature-card:nth-child(4) {
+  .feature-card:nth-child(3) {
     grid-column: 2;
+    grid-row: 2;
   }
 }
